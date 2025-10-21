@@ -1,0 +1,15 @@
+{
+    "name": "tiago/biblioteca",
+    "description": "Nossa biblioteca oop",
+    "autoload": {
+        "psr-4": {
+            "Tiago\\Biblioteca\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tiago da Silva Couto"
+        }
+    ],
+    "require": {}
+}
